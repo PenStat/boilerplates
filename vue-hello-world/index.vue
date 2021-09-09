@@ -1,4 +1,4 @@
-<template src="./hello-world.html"></template>
-<script src="./hello-world.js"></script>
-<style src="./hello-world.scss" scoped lang="scss"></style>
+<template src="vue-hello-world.html"></template>
+<script src="vue-hello-world.js"></script>
+<style src="vue-hello-world.scss" scoped lang="scss"></style>
 
