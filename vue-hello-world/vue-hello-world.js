@@ -1,6 +1,6 @@
 
 export default {
-  name: 'hello-world',
+  name: 'vue-hello-world',
   components: {},
   props: [],
   data () {
